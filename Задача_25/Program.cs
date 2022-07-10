@@ -32,6 +32,6 @@ int GetNumber(string message)
 int A = GetNumber("Введите число А");
 int B = GetNumber("Введите число В");
 
-double result =(Math.Pow(A,B));
+double result = (Math.Pow(A, B));
 
 Console.WriteLine(result);
